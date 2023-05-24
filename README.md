@@ -62,7 +62,7 @@ The "Project+ Stream Tool" was made by [beto](https://twitter.com/pokeroby_beto)
 
 This is an upgraded version of the [Melee Stream Tool](https://github.com/Readek/Melee-Stream-Tool) made by [Readek](https://twitter.com/Readeku).
 
-The scoreboard was made by [beto](https://twitter.com/pokeroby_beto). 
+The scoreboard was made by [beto](https://twitter.com/pokeroby_beto), with edits by ilikepizza107
 
 All the renders were taken from the Project+ Dolphin HD Textures
 
